@@ -1,0 +1,9 @@
+personal_details.tex
+*.aux
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+CV_Oliver_Zimmermann_Private.pdf
+cv.pdf

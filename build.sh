@@ -1,0 +1,1 @@
+pdflatex -jobname="CV_Oliver_Zimmermann_Public" "\def\showPrivate{false} \input{cv.tex}" && pdflatex -jobname="CV_Oliver_Zimmermann_Private" cv.tex
