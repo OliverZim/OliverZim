@@ -1,0 +1,3 @@
+Hi, and nice to meet you! I am Oliver, a masters student in Data Science at ETH Zurich. I am curious about the application of Machine Learning to scientific and engineering domains (e.g. physics, biology, chemistry, medicine, etc.) and I am always looking for new opportunities to learn and grow in this area. If you have an interesting project or opportunity to share, please do not hesitate to reach out to me!
+
+[Here][CV_Oliver_Zimmermann_Public.pdf] you can find my resume. It does not show all my personal information as I do not want them to be exposed online. If you want to see the full version, please contact me directly (e.g. here via a direct message or on [LinkedIn](https://www.linkedin.com/in/oliver-zimmermann-6254831b3/)).
